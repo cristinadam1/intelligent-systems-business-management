@@ -36,19 +36,8 @@ Estudio y modelado predictivo sobre el dataset **Cyber Security Attacks** para l
 * **Análisis y Pre-procesamiento:** Binarización de alertas para gestionar la alta tasa de datos faltantes y estudio de evolución temporal.
 * **Ingeniería de Características:** Extracción de metadatos de dispositivos (Navegador y SO) mediante expresiones regulares.
 * **Modelado:** Evaluación de modelos clásicos (Random Forest, XGBoost) frente a una **Red Neuronal Convolucional (CNN)**.
-* **Arquitectura Final:** Implementación de un modelo **Ensemble (Soft Voting)** para maximizar la robustez.
+* **Arquitectura Final:** Implementación de un modelo **Ensemble (Soft Voting)** 
 
-
-
-### 📊 Resultados (Promedios Macro)
-| Modelo | Exactitud | F1-Score |
-| :--- | :---: | :---: |
-| Random Forest (Optimizado) | 36% | 0.22 |
-| XGBoost | 34% | 0.33 |
-| **Red Neuronal (CNN)** | **73%** | **0.68** |
-| **Ensemble (Final)** | **78%** | **0.75** |
-
-> **Nota:** Para un análisis detallado de las métricas, matrices de confusión y la discusión de resultados, consultar la **memoria técnica** adjunta en el repositorio.
 
 ## 🛠️ Stack Tecnológico
 * **Lenguajes:** Python 
