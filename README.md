@@ -7,7 +7,7 @@ El objetivo es realizar un flujo completo de ciencia de datos sobre el dataset �
 ### Tareas Principales
 * **Análisis Exploratorio (EDA):** Visualización de variables y detección de conflictos iniciales.
 * **Limpieza de Datos:** Tratamiento de valores perdidos (codificados como -999) e identificación de valores atípicos (*outliers*).
-* **Ingeniería de Características:** * Selección de variables mediante análisis de correlación.
+* **Ingeniería de Características:** Selección de variables mediante análisis de correlación.
     * Reducción de dimensionalidad mediante PCA (Análisis de Componentes Principales).
     * Normalización y discretización de datos.
 * **Modelado:** Implementación y comparación de al menos dos técnicas de clasificación binaria.
