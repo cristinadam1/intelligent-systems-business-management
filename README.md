@@ -1,0 +1,47 @@
+# Sistemas Inteligentes para la Gestión en la Empresa
+
+Este repositorio contiene el desarrollo de soluciones avanzadas de Inteligencia Artificial aplicadas al ámbito empresarial, abarcando desde el pre-procesamiento de datos y clasificación estadística hasta modelos de Deep Learning multimodales.
+
+## 📊 Práctica 1: Pre-procesamiento y Clasificación (Dataset Diabetes)
+
+El objetivo de esta fase es realizar un flujo completo de ciencia de datos sobre el dataset «Diabetes Health Indicators» de Kaggle para predecir la presencia de la enfermedad.
+
+### Tareas Principales
+* **Análisis Exploratorio (EDA):** Visualización de variables y detección de conflictos iniciales.
+* **Limpieza de Datos:** Tratamiento de valores perdidos (codificados como -999) e identificación de valores atípicos (*outliers*).
+* **Ingeniería de Características:** * Selección de variables mediante análisis de correlación.
+    * Reducción de dimensionalidad mediante PCA (Análisis de Componentes Principales).
+    * Normalización y discretización de datos.
+* **Modelado:** Implementación y comparación de al menos dos técnicas de clasificación binaria.
+
+
+
+## 🦅 Práctica 2: Deep Learning Multimodal (CUB-200-2011)
+
+Desarrollo de un modelo de clasificación basado en redes neuronales profundas para la identificación de especies de pájaros, utilizando el dataset CUB-200-2011.
+
+### Implementación Técnica
+* **Arquitectura de Red:** Uso de redes neuronales convolucionales (CNN) mediante **PyTorch**.
+* **Aprendizaje Multimodal:** Integración de imágenes y metadatos (atributos numéricos y descripciones).
+* **Optimización Avanzada:**
+    * Ajuste de hiperparámetros y topología de la red.
+    * Gestión de experimentos y logging con **Weights And Biases (WANDB)**.
+    * Aplicación de técnicas de **Transfer Learning** y fine-tuning.
+* **Explicabilidad:** Uso de modelos explicables para justificar las predicciones basadas en atributos visuales específicos del dataset.
+
+
+
+## 🛠️ Stack Tecnológico
+* **Lenguajes:** Python / R.
+* **Machine Learning:** Scikit-learn, caret, tidymodels, DataExplorer.
+* **Deep Learning:** PyTorch, Keras, TensorFlow.
+* **Herramientas de Gestión:** Weights & Biases (WANDB), Optuna, Google Colab.
+
+## 🗂️ Estructura del Proyecto
+* `Práctica_1/`: Código fuente, memoria técnica (PDF) y renderizado interactivo (.html/.pdf).
+* `Práctica_2/`: Código Python, notebooks ejecutables y documentación de arquitectura.
+* `Datasets/`: Directorios para el almacenamiento de datos locales.
+
+---
+**Autor:** [cristinadam1](https://github.com/cristinadam1)
+*Máster en Ingeniería Informática - Universidad de Granada (UGR)*
