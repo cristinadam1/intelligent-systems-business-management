@@ -1,10 +1,8 @@
 # Sistemas Inteligentes para la Gestión en la Empresa
 
-Este repositorio contiene el desarrollo de soluciones avanzadas de Inteligencia Artificial aplicadas al ámbito empresarial, abarcando desde el pre-procesamiento de datos y clasificación estadística hasta modelos de Deep Learning multimodales.
-
 ## 📊 Práctica 1: Pre-procesamiento y Clasificación (Dataset Diabetes)
 
-El objetivo de esta fase es realizar un flujo completo de ciencia de datos sobre el dataset «Diabetes Health Indicators» de Kaggle para predecir la presencia de la enfermedad.
+El objetivo es realizar un flujo completo de ciencia de datos sobre el dataset «Diabetes Health Indicators» de Kaggle para predecir la presencia de la enfermedad.
 
 ### Tareas Principales
 * **Análisis Exploratorio (EDA):** Visualización de variables y detección de conflictos iniciales.
@@ -32,15 +30,10 @@ Desarrollo de un modelo de clasificación basado en redes neuronales profundas p
 
 
 ## 🛠️ Stack Tecnológico
-* **Lenguajes:** Python / R.
+* **Lenguajes:** Python 
 * **Machine Learning:** Scikit-learn, caret, tidymodels, DataExplorer.
 * **Deep Learning:** PyTorch, Keras, TensorFlow.
 * **Herramientas de Gestión:** Weights & Biases (WANDB), Optuna, Google Colab.
-
-## 🗂️ Estructura del Proyecto
-* `Práctica_1/`: Código fuente, memoria técnica (PDF) y renderizado interactivo (.html/.pdf).
-* `Práctica_2/`: Código Python, notebooks ejecutables y documentación de arquitectura.
-* `Datasets/`: Directorios para el almacenamiento de datos locales.
 
 ---
 **Autor:** [cristinadam1](https://github.com/cristinadam1)
